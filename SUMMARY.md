@@ -2,6 +2,17 @@
 
 * [Introduction](README.md)
 
+## Educational Prerequisites
+
+* [Programming](educational-prerequisites/programming/README.md)
+  * [git](educational-prerequisites/programming/git.md)
+* [Biochemistry](educational-prerequisites/biochemistry/README.md)
+  * [Page 5](educational-prerequisites/biochemistry/page-5.md)
+* [Microbiology](educational-prerequisites/microbiology/README.md)
+  * [Page 9](educational-prerequisites/microbiology/page-9.md)
+* [Representing Biology with Math](educational-prerequisites/representing-biology-with-math/README.md)
+  * [Page 10](educational-prerequisites/representing-biology-with-math/page-10.md)
+
 ## Ecology
 
 * [Cooperation in Microbial Communities and their Biotechnological Applications](ecology/cooperation-in-microbial-communities-and-their-biotechnological-applications.md)
