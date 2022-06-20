@@ -15,3 +15,5 @@ The `Educational Prerequisites` section aim to fill the knowledge gaps for resea
 The `Programming` and `Representing Biology with Math` sub-sections  may be more helpful for researchers with a biological background, where the `Biochemistry` and `Microbiology` sections may be helpful to computational researchers that do not have a biological background.
 
 The following sections (`Ecology` - `Simulations` ) are resources that will be helpful for all researchers, regardless of background.
+
+![](.gitbook/assets/image.png)

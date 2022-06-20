@@ -42,16 +42,44 @@
 
 ## Creating, Reusing, and Curating GEMs
 
-* [Page 1](creating-reusing-and-curating-gems/page-1.md)
+* [Building GEMs](creating-reusing-and-curating-gems/building-gems/README.md)
+  * [KBase](creating-reusing-and-curating-gems/building-gems/kbase.md)
+  * [modelSEED](creating-reusing-and-curating-gems/building-gems/modelseed.md)
+  * [CarveMe](creating-reusing-and-curating-gems/building-gems/carveme.md)
+  * [GapSeq](creating-reusing-and-curating-gems/building-gems/gapseq.md)
+* [Genomes for GEM Construction](creating-reusing-and-curating-gems/genomes-for-gem-construction/README.md)
+  * [RefSeq](creating-reusing-and-curating-gems/genomes-for-gem-construction/refseq.md)
+  * [NCBI](creating-reusing-and-curating-gems/genomes-for-gem-construction/ncbi.md)
+  * [EcoCyc](creating-reusing-and-curating-gems/genomes-for-gem-construction/ecocyc.md)
+  * [UHGP](creating-reusing-and-curating-gems/genomes-for-gem-construction/uhgp.md)
+  * [At-SPHERE](creating-reusing-and-curating-gems/genomes-for-gem-construction/at-sphere.md)
+* [Finding GEMs via Databases](creating-reusing-and-curating-gems/finding-gems-via-databases/README.md)
+  * [BiGG](creating-reusing-and-curating-gems/finding-gems-via-databases/bigg.md)
+  * [BioModels](creating-reusing-and-curating-gems/finding-gems-via-databases/biomodels.md)
+* [Curating GEMs](creating-reusing-and-curating-gems/curating-gems/README.md)
+  * [Page 16](creating-reusing-and-curating-gems/curating-gems/page-16.md)
+* [GEMs Format](creating-reusing-and-curating-gems/gems-format/README.md)
+  * [Community Standards](creating-reusing-and-curating-gems/gems-format/community-standards.md)
+  * [SBML](creating-reusing-and-curating-gems/gems-format/sbml.md)
 
 ## Necessary Software & Tools
 
 * [Page 2](necessary-software-and-tools/page-2.md)
+* [Page 7](necessary-software-and-tools/page-7/README.md)
+  * [Page 14](necessary-software-and-tools/page-7/page-14.md)
+* [Page 1](necessary-software-and-tools/page-1.md)
 
 ## Evaluating GEMs
 
-* [Page 3](evaluating-gems/page-3.md)
+* [MEMOTE](evaluating-gems/memote.md)
+* [Evaluating GEM Performance using Experimental Data](evaluating-gems/evaluating-gem-performance-using-experimental-data.md)
 
 ## Simulations
 
-* [Page 4](simulations/page-4.md)
+* [Introduction to Common Simulations](simulations/introduction-to-common-simulations.md)
+* [Visualizing Flux](simulations/visualizing-flux/README.md)
+  * [Escher-FBA](simulations/visualizing-flux/escher-fba.md)
+* [Cell Factory Design](simulations/cell-factory-design/README.md)
+  * [Caffeine](simulations/cell-factory-design/caffeine.md)
+  * [MEWpy](simulations/cell-factory-design/mewpy.md)
+* [Interpreting Simulations](simulations/interpreting-simulations.md)
