@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Setting Up](setting-up.md)
 
 ## Educational Prerequisites
 
