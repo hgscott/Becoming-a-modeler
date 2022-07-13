@@ -55,7 +55,8 @@
 * [Page 2](necessary-software-and-tools/page-2.md)
 * [Page 7](necessary-software-and-tools/page-7/README.md)
   * [Page 14](necessary-software-and-tools/page-7/page-14.md)
-* [Page 1](necessary-software-and-tools/page-1.md)
+* [COMETS](necessary-software-and-tools/page-1/README.md)
+  * [Installation](necessary-software-and-tools/page-1/installation.md)
 
 ## Evaluating GEMs
 
